@@ -51,7 +51,7 @@ html {
   --light-yellow-dark-40: #555041;
   --border-radius: 32px;
   --tile-header-min-height: 90px;
-  --tile-container-min-height: 600px;
+  --tile-container-min-height: 500px;
 }
 
 section {
